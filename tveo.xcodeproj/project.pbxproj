@@ -472,6 +472,7 @@
 				1FE8D62E1D0FDE5900CE7D02 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1FE8D62F1D0FDE5900CE7D02 /* Build configuration list for PBXNativeTarget "tveoTests" */ = {
 			isa = XCConfigurationList;
@@ -480,6 +481,7 @@
 				1FE8D6311D0FDE5900CE7D02 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1FE8D6321D0FDE5900CE7D02 /* Build configuration list for PBXNativeTarget "tveoUITests" */ = {
 			isa = XCConfigurationList;
@@ -488,6 +490,7 @@
 				1FE8D6341D0FDE5900CE7D02 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
